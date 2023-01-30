@@ -1,8 +1,8 @@
 ---
-title: What We Do
+title: Services
 type: services
 # image: /img/services-jumbotron.jpg
-heading: What We Do
+heading: Services
 ---
 
 Coming Soon!
