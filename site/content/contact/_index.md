@@ -1,6 +1,6 @@
 ---
 title: Contact
-logo: img/about-direct-sourcing.jpg
+logo: img/logo_900.jpg
 ---
 
 Coming Soon!
