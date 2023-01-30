@@ -1,7 +1,7 @@
 ---
 title: What We Do
-type: products
-# image: /img/products-jumbotron.jpg
+type: services
+# image: /img/services-jumbotron.jpg
 heading: What We Do
 ---
 
