@@ -1,5 +1,5 @@
 ---
-title: Demo With Nate
+title: Demo With N
 date: 2023-02-01T19:41:08.610Z
 description: Yo this is a website
 image: img/products-full-width.jpg
